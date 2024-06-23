@@ -14,7 +14,7 @@
 <img src="https://github.com/RajendraPandit1/BUFFER_RP/assets/75786029/3a8dd64c-2d7b-43ab-840e-23f0e6eaa8e7" height="200">
 <h1>Hidden Info from files</h1>
 <img src="https://github.com/RajendraPandit1/BUFFER_RP/assets/75786029/39a74e91-be46-42ce-8d33-92ad57d4b972" height="200">
-<h1>sqli finder - @SqlMap </h1>
+<h1>Sqli finder - @SqlMap </h1>
 <img src="https://github.com/RajendraPandit1/BUFFER_RP/assets/75786029/9d607e0a-3c0a-4c9f-a1df-12a31c033d62" height="200">
 <h1>Subdomain enumeration</h1>
 <img src="https://github.com/RajendraPandit1/BUFFER_RP/assets/75786029/c20cc860-6a76-40eb-9f81-38db596a48ec" height="200">
