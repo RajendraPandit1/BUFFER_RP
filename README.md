@@ -1,5 +1,5 @@
 <h1>Loading Screen</h1>
-![image](https://github.com/RajendraPandit1/BUFFER_RP/assets/75786029/a6b4a5c6-ddaa-4a9b-bce1-c7a75b57b651)
+<img src="https://github.com/RajendraPandit1/BUFFER_RP/assets/75786029/a6b4a5c6-ddaa-4a9b-bce1-c7a75b57b651">
 <h1>Login Screen</h1>
 ![image](https://github.com/RajendraPandit1/BUFFER_RP/assets/75786029/329eb160-c93a-49aa-a821-3df9c60b6450)
 <h1>Signup Screen</h1>
@@ -16,7 +16,7 @@
 ![image](https://github.com/RajendraPandit1/BUFFER_RP/assets/75786029/39a74e91-be46-42ce-8d33-92ad57d4b972)
 <h1>sqli finder - @SqlMap </h1>
 ![image](https://github.com/RajendraPandit1/BUFFER_RP/assets/75786029/9d607e0a-3c0a-4c9f-a1df-12a31c033d62)
-<h1>subdomain enumeration</h1>
+<h1>Subdomain enumeration</h1>
 ![image](https://github.com/RajendraPandit1/BUFFER_RP/assets/75786029/c20cc860-6a76-40eb-9f81-38db596a48ec)
 <h1>D.Brute force</h1>
 ![image](https://github.com/RajendraPandit1/BUFFER_RP/assets/75786029/932dbb90-5649-4b0b-b60a-9926bfe2026c)
