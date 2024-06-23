@@ -22,8 +22,7 @@
 <img src="https://github.com/RajendraPandit1/BUFFER_RP/assets/75786029/932dbb90-5649-4b0b-b60a-9926bfe2026c">
 <h1>XSS</h1>
 <img src="https://github.com/RajendraPandit1/BUFFER_RP/assets/75786029/bf4e9565-7c6a-4ddb-9413-c750481666ca">
-<h1>Setting</h1>
-<img src="https://github.com/RajendraPandit1/BUFFER_RP/assets/75786029/77c453de-ae05-4059-8a0e-8ccf70e340d3">
+
 
 
 
