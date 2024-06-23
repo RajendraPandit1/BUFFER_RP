@@ -22,7 +22,7 @@
 <img src="https://github.com/RajendraPandit1/BUFFER_RP/assets/75786029/932dbb90-5649-4b0b-b60a-9926bfe2026c" height="200">
 <h1>XSS</h1>
 <img src="https://github.com/RajendraPandit1/BUFFER_RP/assets/75786029/bf4e9565-7c6a-4ddb-9413-c750481666ca" height="200">
-<h1>Data Base</h1>
+<h1>Data Base - MySql Password Empty</h1>
 <img src="https://github.com/RajendraPandit1/BUFFER_RP/assets/75786029/195e42c9-217d-4636-8bd1-09edee107959" height="200">
 
 
