@@ -1,0 +1,36 @@
+<RCC>
+  <qresource>
+    <file>Image/Icons/clean.png</file>
+    <file>Image/Icons/computer.png</file>
+    <file>Image/Icons/dashboard.png</file>
+    <file>Image/Icons/data-packets.png</file>
+    <file>Image/Icons/directory-burn.png</file>
+    <file>Image/Icons/email.png</file>
+    <file>Image/Icons/exit.png</file>
+    <file>Image/Icons/eye.png</file>
+    <file>Image/Icons/internet.png</file>
+    <file>Image/Icons/lock.png</file>
+    <file>Image/Icons/Logo.png</file>
+    <file>Image/Icons/menu.png</file>
+    <file>Image/Icons/open-file.png</file>
+    <file>Image/Icons/packets.png</file>
+    <file>Image/Icons/password.png</file>
+    <file>Image/Icons/question-mark-30.png</file>
+    <file>Image/Icons/save.png</file>
+    <file>Image/Icons/search.png</file>
+    <file>Image/Icons/setting.png</file>
+    <file>Image/Icons/sql-.png</file>
+    <file>Image/Icons/stop.png</file>
+    <file>Image/Icons/tree_subdomain.png</file>
+    <file>Image/Icons/user.png</file>
+    <file>Image/Icons/web-browser.png</file>
+    <file>Image/Icons/xss.png</file>
+  </qresource>
+  <qresource>
+    <file>Image/image_contains/encontrar_host.png</file>
+    <file>Image/image_contains/-eye-.png</file>
+    <file>Image/image_contains/incoming-and-outgoing.png</file>
+    <file>Image/image_contains/internet.png</file>
+    <file>Image/image_contains/search.png</file>
+  </qresource>
+</RCC>
